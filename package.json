@@ -1,0 +1,22 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "Bootstrap v4.5.2 Starter Pack",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "mdmamun.developer",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
